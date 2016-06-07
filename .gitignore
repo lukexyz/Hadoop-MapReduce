@@ -92,3 +92,4 @@ ENV/
 
 /ml-100k/
 /MapReduceCourse/
+.idea/
